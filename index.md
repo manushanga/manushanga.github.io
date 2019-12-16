@@ -7,5 +7,8 @@ I am currently working on automatic mitigation of power analysis attacks.
 
 Recent (unpublished) work
 ---
+---
+nocite: |
+    @shelton2019rosita
+...
 
-[@shelton2019rosita] [cryptology e-Print Archive](https://eprint.iacr.org/2019/1445)
