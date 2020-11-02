@@ -14,7 +14,6 @@ Recent work
 ---
 Accepted in [__NDSS 2021__](https://www.ndss-symposium.org/ndss2021/)
 
-Madura A Shelton, Niels Samwel, Lejla Batina, Francesco Regazzoni, Markus Wagner, and Yuval Yarom\.
+Madura A\. Shelton, Niels Samwel, Lejla Batina, Francesco Regazzoni, Markus Wagner, and Yuval Yarom\.
 Rosita: towards automatic elimination of power\-analysis leakage in ciphers\.
-\\url https://eprint\.iacr\.org/2019/1445, 2019\.
-[arXiv:1912\.05183](https://arxiv.org/abs/1912.05183)\.
+*IACR Cryptol\. ePrint Arch\.*, 2019:1445, 2019\.  
