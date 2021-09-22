@@ -12,8 +12,13 @@ I am currently working on automatic mitigation of power analysis attacks.
 
 Recent work
 ---
-Accepted in [__NDSS 2021__](https://www.ndss-symposium.org/ndss2021/)
 
-Madura A\. Shelton, Niels Samwel, Lejla Batina, Francesco Regazzoni, Markus Wagner, and Yuval Yarom\.
++ Accepted in [__CCS 2021__](https://www.sigsac.org/ccs/CCS2021/accepted-papers.html)
+
+    Madura A\. Shelton, Łukasz Chmielewski, Niels Samwel, Markus Wagner, Lejla Batina, and Yuval Yarom\.
+    Rosita\+\+: automatic higher\-order leakage elimination from cryptographic code\.
+    In *CCS*\. Special Interest Group on Security, Audit and Control \(SIGSAC\) of the Association for Computing Machinery \(ACM\), 2021\.
+
++ Madura A\. Shelton, Niels Samwel, Lejla Batina, Francesco Regazzoni, Markus Wagner, and Yuval Yarom\.
 Rosita: towards automatic elimination of power\-analysis leakage in ciphers\.
-*IACR Cryptol\. ePrint Arch\.*, 2019:1445, 2019\.  
+In *NDSS*\. The Internet Society, 2021\.
